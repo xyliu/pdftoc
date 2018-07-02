@@ -1,0 +1,9 @@
+It's to add ToC(outline/bookmark) to pdf files.
+
+The file is from https://github.com/Igalia/intel-osrc-gfx-prm.git.
+To simplify the case, the file path is put to a list. Just run
+` python3 upt_toc.py` to update the ToC.
+
+
+It generated the 'ToC', but they are not recognized by default App in Mac
+and PDF Expert in ios11.
